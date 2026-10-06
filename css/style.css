@@ -1,0 +1,282 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    background-color: #f2eef8;
+
+    color: #211333;
+
+}
+
+
+header {
+
+    background-color: #211333;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 30px;
+
+}
+
+header small {
+
+    color: #a8ff3e;
+
+}
+
+header h1 {
+
+    color: white;
+
+}
+
+
+#menu {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 30px;
+
+}
+
+#menu a {
+
+    color: white;
+
+    text-decoration: none;
+
+}
+
+#menu a:hover {
+
+    color: #a8ff3e;
+
+}
+
+#introducao {
+
+    background-color: #eddbff;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 50px;
+
+    padding: 50px 10%;
+
+}
+
+#introducao article {
+
+    width: 50%;
+
+}
+
+#introducao img {
+
+    width: 35%;
+
+}
+
+#introducao h2 {
+
+    color: #211333;
+
+}
+
+#introducao p {
+
+    line-height: 1.6;
+
+}
+
+#funcionalidades {
+
+    background-color: #f2eef8;
+
+    text-align: center;
+
+    padding: 40px 5%;
+
+}
+
+#funcionalidades h2 {
+
+    color: #211333;
+
+}
+
+#funcionalidades article {
+
+    display: inline-block;
+
+    background-color: rgb(84, 9, 128);
+
+    width: 200px;
+
+    margin: 10px;
+
+    padding: 15px;
+
+    vertical-align: top;
+
+}
+
+#funcionalidades article img {
+
+    width: 100%;
+
+    height: 150px;
+
+}
+
+#funcionalidades article h3 {
+
+    color: #aa6ee2;
+
+}
+
+#funcionalidades article p {
+    color: #e5d8f2;
+    line-height: 1.5;
+
+}
+
+
+#requisitos {
+
+    background-color: #e5d8f2;
+
+    text-align: center;
+
+    padding: 40px 8%;
+
+}
+
+#requisitos h2 {
+
+    color: #211333;
+
+}
+
+#requisitos article {
+
+    display: inline-block;
+
+    background-color: white;
+
+    width: 25%;
+
+    margin: 10px;
+
+    padding: 20px;
+
+    vertical-align: top;
+
+    text-align: left;
+
+}
+
+#requisitos article h3 {
+
+    color: #7138a8;
+
+}
+
+#requisitos article p {
+
+    line-height: 1.5;
+
+}
+
+
+#estoque {
+
+    background-color: #d7b4fa;
+
+    padding: 40px 10%;
+
+}
+
+#estoque h2 {
+
+    color: #211333;
+
+}
+
+#estoque p {
+
+    line-height: 1.6;
+
+}
+
+table {
+
+    width: 100%;
+
+}
+
+th {
+
+    background-color: #211333;
+
+    color: white;
+
+    padding: 12px;
+
+}
+
+td {
+
+    padding: 12px;
+
+    border: 1px solid #d8cce5;
+
+}
+
+
+#contato {
+
+    background-color: #211333;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 40px;
+
+}
+
+#contato h2 {
+
+    color: white;
+
+}
+
+#contato small {
+
+    color: #a8ff3e;
+
+}
+
+footer {
+
+    background-color: #140a1c;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
